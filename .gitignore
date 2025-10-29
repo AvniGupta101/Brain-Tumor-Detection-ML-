@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Uploaded files
+uploads/
+uploads/heatmaps/
+
+# Model weights (optional)
+*.h5
+*.hdf5
+
+# Dataset (too large for GitHub)
+datasets/
+data/
